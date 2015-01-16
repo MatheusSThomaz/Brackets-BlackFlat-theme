@@ -12,7 +12,7 @@
         "brackets": ">=0.42.0"
     },
     "theme": {
-        "file": "theme.less",
+        "file": "theme.css",
 		"dark": true
     },
     "screenshot": "screen.png"
