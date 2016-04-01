@@ -6,7 +6,7 @@
     "author": "contato@msthomaz.com",
     	"repository": {
         "type": "git",
-        "url": "git@github.com:MatheusSThomaz/Brackets-BlackFlat-theme.git"
+        "url": "git@github.com:msthomaz/Brackets-BlackFlat-theme.git"
     },
     "engines": {
         "brackets": ">=0.42.0"
